@@ -1,3 +1,5 @@
+user:
+  name: nani
 eureka:
   client:
     fetch-registry: true
